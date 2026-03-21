@@ -8,7 +8,7 @@
 
 - ❤️‍🩹 I'm looking for help with <ins>**internship**</ins>
 
-- 📫 How to reach me <ins>**mike.bui@sfu.ca**</ins> or through [<ins>linkedin</ins>](https://www.linkedin.com/in/mike-bui-822520281/)
+- 📫 How to reach me [mike.bui@sfu.ca](mike.bui@sfu.ca) or through [<ins>linkedin</ins>](https://www.linkedin.com/in/mike-bui-822520281/)
 
 - 🤓 Fun fact <ins>**i think i am too funny**</ins> and <ins>**i also play badminton**</ins> 🏸, hmu if you tryna play 😼
 
