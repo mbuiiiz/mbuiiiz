@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning <ins>**aws and kubernetes**</ins>
 
-- 👯 I'm looking to collaborate on <ins>**fun or productive, scalable, and impactful projects** !</ins>
+- 👯 I'm looking to collaborate on <ins>**fun**</ins> or <ins>**productive, scalable, and impactful projects** !</ins>
 
 - ❤️‍🩹 I'm looking for help with <ins>**internship**</ins>
 
