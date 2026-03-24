@@ -6,7 +6,7 @@
 
 - 👯 I'm looking to collaborate on <ins>**fun**</ins> OR <ins>**productive, scalable, and impactful**</ins> <ins>**projects**</ins> !
 
-- ❤️‍🩹 I'm looking for help with <ins>**internship**</ins>
+- 💔 I'm looking for help with <ins>**internship**</ins>
 
 - 📫 How to reach me [mike.bui@sfu.ca](mailto:tmike.bui@sfu.ca) or through [linkedin](https://www.linkedin.com/in/mike-bui-822520281/)
 
