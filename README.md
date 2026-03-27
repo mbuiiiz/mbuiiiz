@@ -1,4 +1,4 @@
-# yo, im Mike
+# hi there, im Mike
 
 ### Software Developer 💻
 
