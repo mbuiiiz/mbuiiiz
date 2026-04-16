@@ -10,3 +10,13 @@
 - 🤓 Fun fact: **I think I'm too funny** and **I also play badminton** 🏸 — hmu if you tryna play!
 
 ---
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,docker,express,figma,git,java,js,linux,mysql,nodejs,postgres,py,react,spring,ts,aws,kubernetes&perline=9" alt="skills" />
+  </a>
+</p>
+
+---
