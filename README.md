@@ -24,24 +24,6 @@
 
 ---
 
-<h3 align="left">💭 Dev Quote of the Day:</h3>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
-</p>
-
----
-
-<h3 align="left">🎧 Currently Vibing To:</h3>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify now playing" />
-  </a>
-</p>
-
----
-
 <h3 align="center">🤝 Let's Connect!</h3>
 
 <p align="center">
