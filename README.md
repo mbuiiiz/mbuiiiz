@@ -8,17 +8,25 @@
 
 - 🌱 I'm currently learning **AWS and Kubernetes**
 - 👯 I'm looking to collaborate on **fun** OR **productive, scalable, and impactful projects**!
-- 💔 Still hunting for that **internship** — hmu if you know of any!
+- 💔 Still hunting for that **internship** - hmu if you know of any!
 - 📫 How to reach me: [mike.bui@sfu.ca](mailto:mike.bui@sfu.ca) or on [LinkedIn](https://www.linkedin.com/in/mike-bui-822520281/)
-- 🤓 Fun fact: **I think I'm too funny** and **I also play badminton** 🏸 — hmu if you tryna play!
+- 🤓 Fun fact: **I think I'm too funny** and **I also play badminton** 🏸 - hmu if you tryna play!
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,html,css,react,nodejs,express,spring,flask,postgres,git,maven,docker,githubactions,vercel&perline=10" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,java,js,ts,py,html,css" alt="languages" />
+  </a>
+</p>
+
+<h3 align="left">Frameworks & Tools:</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,flask,postgres,git,maven,docker,githubactions,vercel" alt="frameworks and tools" />
   </a>
 </p>
 
