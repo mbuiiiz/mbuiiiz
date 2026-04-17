@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **AWS and Kubernetes**
 - 👯 I'm looking to collaborate on **fun** OR **productive, scalable, and impactful projects**!
-- 💔 Still hunting for that **internship** — hmu if you know of any!
+- 💔 Still hunting for that **internship** - hmu if you know of any!
 - 📫 How to reach me: [mike.bui@sfu.ca](mailto:mike.bui@sfu.ca) or on [LinkedIn](https://www.linkedin.com/in/mike-bui-822520281/)
 - 🤓 Fun fact: **I think I'm too funny** and **I also play badminton** 🏸 — hmu if you tryna play!
 
