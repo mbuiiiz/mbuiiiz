@@ -9,9 +9,8 @@
 - 🌱 I'm currently learning **AWS and Kubernetes**
 - 👯 I'm looking to collaborate on **fun** OR **productive, scalable, and impactful projects**!
 - 💔 Still hunting for that **internship** - hmu if you know of any!
-- 📫 How to reach me: [mike.bui@sfu.ca](mailto:mike.bui@sfu.ca) or on [LinkedIn](https://www.linkedin.com/in/mike-bui-822520281/)
 - 🤓 Fun fact: **I think I'm too funny** and **I also play badminton** 🏸 - hmu if you tryna play!
-
+- 📫 How to reach me: [mike.bui@sfu.ca](mailto:mike.bui@sfu.ca) or on [LinkedIn](https://www.linkedin.com/in/mike-bui-822520281/)
 ---
 
 <h3 align="left">Languages:</h3>
@@ -31,14 +30,3 @@
 </p>
 
 ---
-
-<h3 align="center">🤝 Let's Connect!</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mike-bui-822520281/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mike.bui@sfu.ca">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
