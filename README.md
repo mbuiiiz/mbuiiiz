@@ -6,11 +6,11 @@
 
 ---
 
-- 🌱 I'm currently learning **AWS and Kubernetes**
-- 👯 I'm looking to collaborate on **fun** OR **productive, scalable, and impactful projects**!
-- 💔 Still hunting for that **internship** - hmu if you know of any!
-- 🤓 Fun fact: **I use lightmode for everything** and **I play badminton** 🏸 - hmu if you tryna play!
-- 📫 How to reach me: [mike.bui@sfu.ca](mailto:mike.bui@sfu.ca) or on [LinkedIn](https://www.linkedin.com/in/mike-bui-822520281/)
+- 🌱 i'm currently learning **AWS and Kubernetes**
+- 👯 i'm looking to collaborate on **fun** OR **productive, scalable, and impactful projects**!
+- 💔 still hunting for that **internship** - hmu if you know of any!
+- 🤓 fun fact: **I use lightmode for everything** and **I play badminton** 🏸 - hmu if you tryna play!
+- 📫 how to reach me: [mike.bui@sfu.ca](mailto:mike.bui@sfu.ca) or on [LinkedIn](https://www.linkedin.com/in/mike-bui-822520281/)
 
 ---
 
