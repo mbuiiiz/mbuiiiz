@@ -1,7 +1,4 @@
-<h1 align="center">hi there, i'm Mike 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%92%BB;SFU+Student+%F0%9F%8E%93;Badminton+Player+🏸;Let's+build+something+cool!+😎" alt="Typing SVG" />
-</p>
+<h1>hi there, i'm Mike 👋</h1>
 
 ---
 
@@ -56,4 +53,4 @@
 
 ---
 
-<h3 align="center">🤝 Let's Connect!</h3>
+<h3 align="center">🤝 Let's Make Something!</h3>
