@@ -1,7 +1,5 @@
 <h1>hi there, i'm Mike 👋</h1>
 
----
-
 - 🌱 i'm currently learning **AWS and Kubernetes**
 - 👯 i'm looking to collaborate on **fun** OR **productive, scalable, and impactful projects**!
 - 💔 still hunting for that **internship** - hmu if you know of any!
