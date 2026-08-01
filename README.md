@@ -1,6 +1,6 @@
 <h1>hi there, i'm Mike 👋</h1>
 
-- 🌱 i'm currently learning **AWS and Kubernetes**
+- 🌱 i'm currently learning **AWS, Kubernetes, and Agentic Development**
 - 👯 i'm looking to collaborate on **fun** OR **productive, scalable, and impactful projects**!
 - 💔 still hunting for that **internship** - hmu if you know of any!
 - 🤓 fun fact: **i use lightmode for everything** and **i play badminton** 🏸 - hmu if you tryna play!
