@@ -4,7 +4,7 @@
 - 👯 i'm looking to collaborate on **fun** OR **productive, scalable, and impactful projects**!
 - 💔 still hunting for that **internship** - hmu if you know of any!
 - 🤓 fun fact: **i use lightmode for everything** and **i play badminton** 🏸 - hmu if you tryna play!
-- 📫 how to reach me: [mike.bui@sfu.ca](mailto:mike.bui@sfu.ca) or on [LinkedIn](https://www.linkedin.com/in/mike-bui-822520281/)
+- 📫 how to reach me: [mike_bui@sfu.ca](mailto:mike_bui@sfu.ca) or on [LinkedIn](https://www.linkedin.com/in/mike-bui-822520281/)
 
 ---
 
