@@ -1,9 +1,9 @@
 <h1>hi there, i'm Mike 👋</h1>
 
-- 🌱 i'm currently learning **AWS, Kubernetes, and Agentic Development**
+- 🌱 i'm currently learning **SAA-C03, OpenShift, and Agentic Development**. If you are also learning these, don't be shy to shoot me a msg :))))))).
 - 👯 i'm looking to collaborate on **fun** OR **productive, scalable, and impactful projects**!
-- 💔 still hunting for that **internship** - hmu if you know of any!
-- 🤓 fun fact: **i use lightmode for everything** and **i play badminton** 🏸 - hmu if you tryna play!
+- 💔 **current internship/coop** - Insurance Corporation of British Columbia (ICBC)
+- 🤓 fun fact: **i immigrated to Canada when I was 16** - hmu if you know some sick hiking spots, and **i play badminton** 🏸 - hmu if you tryna play!
 - 📫 how to reach me: [mike_bui@sfu.ca](mailto:mike_bui@sfu.ca) or on [LinkedIn](https://www.linkedin.com/in/mike-bui-822520281/)
 
 ---
